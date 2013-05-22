@@ -1,0 +1,9 @@
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager_3.exe
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager_3.pdb
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager_3.Properties.Resources.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager_3.exe
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager_3.pdb
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Properties.Resources.resources

@@ -1,0 +1,298 @@
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.exe
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.pdb
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.pdb
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AboutBox.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.BOForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.EditParameterForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertBOForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectParametersBOForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertChannelForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommList.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertCommand.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommonOptions.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ContactsForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Add10PowXForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAccumulationForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAssignmentForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddCaptureForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddConstantForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceNewForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionNewForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddIncrementForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMaximumForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaNewForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMinimumForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationNewForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaNewForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.GasesForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddGasesPairForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ResultsForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SignalsForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.MainForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComOptions.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComSecondaryOptions.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.devTcpStatisticsForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.PortStatisticsForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ProtocolForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverFileStatisticsForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.TcpOptions.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsViewForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterViewForm.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Properties.Resources.resources
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Desktop\DeviceManager_3\DeviceManager_3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe.config
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.pdb
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AboutBox.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.BOForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.EditParameterForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertBOForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectParametersBOForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertChannelForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommList.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertCommand.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommonOptions.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ContactsForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Add10PowXForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAccumulationForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAssignmentForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddCaptureForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddConstantForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceNewForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionNewForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddIncrementForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMaximumForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaNewForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMinimumForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationNewForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaNewForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.GasesForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddGasesPairForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ResultsForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SignalsForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.MainForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComOptions.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComSecondaryOptions.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.devTcpStatisticsForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.PortStatisticsForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ProtocolForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverFileStatisticsForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.TcpOptions.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsViewForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterViewForm.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Properties.Resources.resources
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.exe
+C:\Users\Developer\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.pdb
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe.config
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.exe
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.pdb
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.pdb
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AboutBox.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.BOForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.EditParameterForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertBOForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectParametersBOForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertChannelForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommList.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertCommand.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommonOptions.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ContactsForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Add10PowXForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAccumulationForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAssignmentForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddCaptureForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddConstantForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceNewForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionNewForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddIncrementForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMaximumForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaNewForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMinimumForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationNewForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaNewForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.GasesForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddGasesPairForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ResultsForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SignalsForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.MainForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComOptions.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComSecondaryOptions.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.devTcpStatisticsForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.PortStatisticsForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ProtocolForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverFileStatisticsForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.TcpOptions.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsViewForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterViewForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Properties.Resources.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddNamespaceForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\SciLexer.dll
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\SciLexer64.dll
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\ScintillaNET.dll
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\ScintillaNET.pdb
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ScriptForm.resources
+C:\Users\Alexander\Documents\Проекты\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ScriptFormEdit.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe.config
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\SciLexer.dll
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\SciLexer64.dll
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\ScintillaNET.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddNamespaceForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ScriptForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ScriptFormEdit.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.BOForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertBOForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectParametersBOForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertChannelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommList.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertCommand.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommonOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ContactsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Add10PowXForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAccumulationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAssignmentForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddCaptureForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddConstantForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddIncrementForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMaximumForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMinimumForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.GasesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddGasesPairForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SignalsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.MainForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComSecondaryOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.devTcpStatisticsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.PortStatisticsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ProtocolForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverFileStatisticsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.TcpOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130215 1400\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe.config
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\SciLexer.dll
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\SciLexer64.dll
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.exe
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\DeviceManager.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\bin\Debug\ScintillaNET.pdb
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CalibrationGraphic.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddNamespaceForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ScriptForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ScriptFormEdit.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AboutBox.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.BOForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.EditParameterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertBOForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectParametersBOForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertChannelForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommList.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.InsertCommand.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.CommonOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ContactsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Add10PowXForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAccumulationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddAssignmentForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddCaptureForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddConstantForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDifferenceNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddDivizionNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddIncrementForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMaximumForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMediaNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMinimumForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddMultiplicationNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddSummaNewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddTransformationForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.GasesForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.AddGasesPairForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ResultsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SignalsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.MainForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SelectForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ComSecondaryOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.devTcpStatisticsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.PortStatisticsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ProtocolForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.SaverFileStatisticsForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.TcpOptions.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ChannelsViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.ConverterViewForm.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.Properties.Resources.resources
+E:\Users\СКБ Ореол\Progs\_NET\projects\AlexPRQ\Проекты_130325 1615\DeviceManager\DeviceManager_3\DeviceManager_3\obj\x86\Debug\DeviceManager.PortStatisticsForm2.resources

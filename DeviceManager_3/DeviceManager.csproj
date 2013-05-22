@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ECD5EA6A-6FCF-453D-80D9-5DF4678EEFD9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DeviceManager</RootNamespace>
+    <AssemblyName>DeviceManager</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1496_wall.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="ScintillaNET">
+      <HintPath>..\..\..\..\..\Desktop\Новая папка (3)\bin\Debug\ScintillaNET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\CalibrationGraphicView\CalibrationGraphic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\CalibrationGraphicView\CalibrationGraphic.designer.cs">
+      <DependentUpon>CalibrationGraphic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\CalibrationGraphicView\Types.cs" />
+    <Compile Include="DeviceManager\Application\Application.Configuration.cs" />
+    <Compile Include="DeviceManager\Application\Application.cs" />
+    <Compile Include="DeviceManager\Application\Application.Services.cs" />
+    <Compile Include="DeviceManager\Application\Application.Static..cs" />
+    <Compile Include="DeviceManager\Application\Application.Types.cs" />
+    <Compile Include="DeviceManager\Application\IComponent.cs" />
+    <Compile Include="DeviceManager\Application\Types\ApplicationMode.cs" />
+    <Compile Include="DeviceManager\Application\Types\Content.cs" />
+    <Compile Include="DeviceManager\Application\Types\Float.cs" />
+    <Compile Include="DeviceManager\Application\Types\Packet.cs" />
+    <Compile Include="DeviceManager\Application\Types\TypePort.cs" />
+    <Compile Include="DeviceManager\Application\Types\PacketSource.cs" />
+    <Compile Include="DeviceManager\Application\Types\Parameter.cs" />
+    <Compile Include="DeviceManager\Application\Types\ParameterType.cs" />
+    <Compile Include="DeviceManager\Application\Types\Role.cs" />
+    <Compile Include="DeviceManager\Application\Types\Stamp.cs" />
+    <Compile Include="DeviceManager\Application\Types\State.cs" />
+    <Compile Include="DeviceManager\Application\Types\TypeCRC.cs" />
+    <Compile Include="DeviceManager\Converter\Converter.Configuration.cs" />
+    <Compile Include="DeviceManager\Converter\Converter.cs" />
+    <Compile Include="DeviceManager\Converter\Converter.Formuls.cs" />
+    <Compile Include="DeviceManager\Converter\Converter.Timer.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Formula.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\IMacros.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Accumulation.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Assignment.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Capture.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Constant.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Difference.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Division.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Gases.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Increment.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Maximum.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Media.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Minimum.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Multiplication.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\PowerOf10.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Summa.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Transformation.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Macroses\Undefined.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Script\Script.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Script\Script.Script.cs" />
+    <Compile Include="DeviceManager\Converter\Macros\Script\UI\AddNamespaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceManager\Converter\Macros\Script\UI\AddNamespaceForm.designer.cs">
+      <DependentUpon>AddNamespaceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceManager\Converter\Macros\Script\UI\ScriptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceManager\Converter\Macros\Script\UI\ScriptForm.designer.cs">
+      <DependentUpon>ScriptForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceManager\Converter\Macros\Script\UI\ScriptFormEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceManager\Converter\Macros\Script\UI\ScriptFormEdit.designer.cs">
+      <DependentUpon>ScriptFormEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceManager\Converter\VirtualDevice\Sensor.cs" />
+    <Compile Include="DeviceManager\DevMan\Client\PacketTranslater.cs" />
+    <Compile Include="DeviceManager\DevMan\Client\TcpDevClient.cs" />
+    <Compile Include="DeviceManager\DevMan\TcpDevManager.cs" />
+    <Compile Include="DeviceManager\DevMan\TcpDevManager.Server.cs" />
+    <Compile Include="DeviceManager\DevMan\TcpDevManager.Statistics.cs" />
+    <Compile Include="DeviceManager\DisplayUnit\DisplayPacket.cs" />
+    <Compile Include="DeviceManager\DisplayUnit\DisplayUnit.Configuration.cs" />
+    <Compile Include="DeviceManager\DisplayUnit\DisplayUnit.cs" />
+    <Compile Include="DeviceManager\DisplayUnit\DisplayUnit.List.cs" />
+    <Compile Include="DeviceManager\DisplayUnit\DisplayUnit.Timer.cs" />
+    <Compile Include="DeviceManager\Errors\Error.cs" />
+    <Compile Include="DeviceManager\File\File.Const.cs" />
+    <Compile Include="DeviceManager\File\File.cs" />
+    <Compile Include="DeviceManager\File\File.Header.cs" />
+    <Compile Include="DeviceManager\File\File.Saver.cs" />
+    <Compile Include="DeviceManager\File\File.Stamps.cs" />
+    <Compile Include="DeviceManager\File\Sub\Saver.Configuration.cs" />
+    <Compile Include="DeviceManager\File\Sub\Saver.cs" />
+    <Compile Include="DeviceManager\File\Sub\Saver.Parameters.cs" />
+    <Compile Include="DeviceManager\File\Sub\Saver.Timer.cs" />
+    <Compile Include="DeviceManager\Repository\Repository.cs" />
+    <Compile Include="DeviceManager\Repository\Repository.Place.cs" />
+    <Compile Include="DeviceManager\Serial\Secondary\SecondaryPort.cs" />
+    <Compile Include="DeviceManager\Serial\Secondary\SecondaryPort.Port.cs" />
+    <Compile Include="DeviceManager\Serial\Serial.Configuration.cs" />
+    <Compile Include="DeviceManager\Serial\Serial.cs" />
+    <Compile Include="DeviceManager\Serial\Serial.Packets.cs" />
+    <Compile Include="DeviceManager\Serial\Serial.Parser.cs" />
+    <Compile Include="DeviceManager\Serial\Serial.PassiveMode.cs" />
+    <Compile Include="DeviceManager\Serial\Serial.Port.cs" />
+    <Compile Include="DeviceManager\Serial\Serial.Statistica.cs" />
+    <Compile Include="DeviceManager\Stock\Stock.Conditions.cs" />
+    <Compile Include="DeviceManager\Stock\Stock.Configuration.cs" />
+    <Compile Include="DeviceManager\Stock\Stock.cs" />
+    <Compile Include="DeviceManager\Stock\Stock.Parser.cs" />
+    <Compile Include="DeviceManager\WCF\ICallBack.cs" />
+    <Compile Include="DeviceManager\WCF\IService.cs" />
+    <Compile Include="DeviceManager\WCF\Service.cs" />
+    <Compile Include="DeviceManager\WCF\Service.IService.cs" />
+    <Compile Include="DeviceManager\WCF\Types\Handle.cs" />
+    <Compile Include="DeviceManager\WCF\Types\PDescription.cs" />
+    <Compile Include="DeviceManager\WCF\Types\Role.cs" />
+    <Compile Include="DeviceManager\WCF\Types\User.cs" />
+    <Compile Include="DeviceManager\WCF\Types\UserMode.cs" />
+    <Compile Include="DeviceManager\WCF\WCF_Client\DevManClient.cs" />
+    <Compile Include="DeviceManager\WCF\WCF_Client\DevManClientContext.cs" />
+    <Compile Include="Interface\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\AboutBox.designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\BO\BOForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\BO\BOForm.designer.cs">
+      <DependentUpon>BOForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\BO\EditParameterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\BO\EditParameterForm.designer.cs">
+      <DependentUpon>EditParameterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\BO\InsertBOForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\BO\InsertBOForm.designer.cs">
+      <DependentUpon>InsertBOForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\BO\SelectParametersBOForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\BO\SelectParametersBOForm.designer.cs">
+      <DependentUpon>SelectParametersBOForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Channels\ChannelsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Channels\ChannelsForm.designer.cs">
+      <DependentUpon>ChannelsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Channels\InsertChannelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Channels\InsertChannelForm.designer.cs">
+      <DependentUpon>InsertChannelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Commands\CommList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Commands\CommList.designer.cs">
+      <DependentUpon>CommList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Commands\Insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Commands\Insert.designer.cs">
+      <DependentUpon>Insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Commands\MyPacket.cs" />
+    <Compile Include="Interface\Common\Options\CommonOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Common\Options\CommonOptions.designer.cs">
+      <DependentUpon>CommonOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ContactsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\ContactsForm.designer.cs">
+      <DependentUpon>ContactsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\ConverterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\ConverterForm.designer.cs">
+      <DependentUpon>ConverterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\Add10PowXForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\Add10PowXForm.designer.cs">
+      <DependentUpon>Add10PowXForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddAccumulationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddAccumulationForm.designer.cs">
+      <DependentUpon>AddAccumulationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddAssignmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddAssignmentForm.designer.cs">
+      <DependentUpon>AddAssignmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddCaptureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddCaptureForm.designer.cs">
+      <DependentUpon>AddCaptureForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddConstantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddConstantForm.designer.cs">
+      <DependentUpon>AddConstantForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDifferenceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDifferenceForm.designer.cs">
+      <DependentUpon>AddDifferenceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDifferenceNewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDifferenceNewForm.designer.cs">
+      <DependentUpon>AddDifferenceNewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDivizionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDivizionForm.designer.cs">
+      <DependentUpon>AddDivizionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDivizionNewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddDivizionNewForm.designer.cs">
+      <DependentUpon>AddDivizionNewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddIncrementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddIncrementForm.designer.cs">
+      <DependentUpon>AddIncrementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMaximumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMaximumForm.designer.cs">
+      <DependentUpon>AddMaximumForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMediaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMediaForm.designer.cs">
+      <DependentUpon>AddMediaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMediaNewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMediaNewForm.designer.cs">
+      <DependentUpon>AddMediaNewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMinimumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMinimumForm.designer.cs">
+      <DependentUpon>AddMinimumForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMultiplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMultiplicationForm.designer.cs">
+      <DependentUpon>AddMultiplicationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMultiplicationNewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddMultiplicationNewForm.designer.cs">
+      <DependentUpon>AddMultiplicationNewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddSummaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddSummaForm.designer.cs">
+      <DependentUpon>AddSummaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddSummaNewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddSummaNewForm.designer.cs">
+      <DependentUpon>AddSummaNewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddTransformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\AddTransformationForm.designer.cs">
+      <DependentUpon>AddTransformationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\GasesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Formulas\GasesForm.Designer.cs">
+      <DependentUpon>GasesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Converter\Gases\AddGasesPairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Converter\Gases\AddGasesPairForm.Designer.cs">
+      <DependentUpon>AddGasesPairForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Lists\ResultsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Lists\ResultsForm.designer.cs">
+      <DependentUpon>ResultsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Lists\SignalsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Lists\SignalsForm.designer.cs">
+      <DependentUpon>SignalsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Saver\SaverForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Saver\SaverForm.designer.cs">
+      <DependentUpon>SaverForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Saver\SelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Saver\SelectForm.designer.cs">
+      <DependentUpon>SelectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Serial\Options\ComOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Serial\Options\ComOptions.designer.cs">
+      <DependentUpon>ComOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Serial\Ports\ComSecondaryOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Serial\Ports\ComSecondaryOptions.designer.cs">
+      <DependentUpon>ComSecondaryOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Services\devTcpStatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Services\devTcpStatisticsForm.designer.cs">
+      <DependentUpon>devTcpStatisticsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Services\PortStatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Services\PortStatisticsForm.designer.cs">
+      <DependentUpon>PortStatisticsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Services\PortStatisticsForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Services\PortStatisticsForm2.Designer.cs">
+      <DependentUpon>PortStatisticsForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Services\ProtocolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Services\ProtocolForm.designer.cs">
+      <DependentUpon>ProtocolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Services\SaverFileStatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Services\SaverFileStatisticsForm.designer.cs">
+      <DependentUpon>SaverFileStatisticsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Tcp\devMan\TcpOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Tcp\devMan\TcpOptions.designer.cs">
+      <DependentUpon>TcpOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Viewer\ChannelsViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Viewer\ChannelsViewForm.designer.cs">
+      <DependentUpon>ChannelsViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Viewer\ConverterViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Viewer\ConverterViewForm.designer.cs">
+      <DependentUpon>ConverterViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Log\Journal.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Protocols\Dsn\IProtocol.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Protocols\Dsn\Packer.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Protocols\Dsn\Protocol.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Protocols\Dsn\VersionX100.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Tcp\Client\TcpClient.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Tcp\Server\Client.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Tcp\Server\Heap.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Tcp\Server\Server.cs" />
+    <Compile Include="SoftwareDevelopmentKit\Tcp\Server\SocketAsyncEventArgsPool.cs" />
+    <EmbeddedResource Include="Components\CalibrationGraphicView\CalibrationGraphic.resx">
+      <DependentUpon>CalibrationGraphic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceManager\Converter\Macros\Script\UI\AddNamespaceForm.resx">
+      <DependentUpon>AddNamespaceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceManager\Converter\Macros\Script\UI\ScriptForm.resx">
+      <DependentUpon>ScriptForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceManager\Converter\Macros\Script\UI\ScriptFormEdit.resx">
+      <DependentUpon>ScriptFormEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\BO\BOForm.resx">
+      <DependentUpon>BOForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\BO\EditParameterForm.resx">
+      <DependentUpon>EditParameterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\BO\InsertBOForm.resx">
+      <DependentUpon>InsertBOForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\BO\SelectParametersBOForm.resx">
+      <DependentUpon>SelectParametersBOForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Channels\ChannelsForm.resx">
+      <DependentUpon>ChannelsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Channels\InsertChannelForm.resx">
+      <DependentUpon>InsertChannelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Commands\CommList.resx">
+      <DependentUpon>CommList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Commands\Insert.resx">
+      <DependentUpon>Insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Common\Options\CommonOptions.resx">
+      <DependentUpon>CommonOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ContactsForm.resx">
+      <DependentUpon>ContactsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\ConverterForm.resx">
+      <DependentUpon>ConverterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\Add10PowXForm.resx">
+      <DependentUpon>Add10PowXForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddAccumulationForm.resx">
+      <DependentUpon>AddAccumulationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddAssignmentForm.resx">
+      <DependentUpon>AddAssignmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddCaptureForm.resx">
+      <DependentUpon>AddCaptureForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddConstantForm.resx">
+      <DependentUpon>AddConstantForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddDifferenceForm.resx">
+      <DependentUpon>AddDifferenceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddDifferenceNewForm.resx">
+      <DependentUpon>AddDifferenceNewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddDivizionForm.resx">
+      <DependentUpon>AddDivizionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddDivizionNewForm.resx">
+      <DependentUpon>AddDivizionNewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddIncrementForm.resx">
+      <DependentUpon>AddIncrementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddMaximumForm.resx">
+      <DependentUpon>AddMaximumForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddMediaForm.resx">
+      <DependentUpon>AddMediaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddMediaNewForm.resx">
+      <DependentUpon>AddMediaNewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddMinimumForm.resx">
+      <DependentUpon>AddMinimumForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddMultiplicationForm.resx">
+      <DependentUpon>AddMultiplicationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddMultiplicationNewForm.resx">
+      <DependentUpon>AddMultiplicationNewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddSummaForm.resx">
+      <DependentUpon>AddSummaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddSummaNewForm.resx">
+      <DependentUpon>AddSummaNewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\AddTransformationForm.resx">
+      <DependentUpon>AddTransformationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Formulas\GasesForm.resx">
+      <DependentUpon>GasesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Converter\Gases\AddGasesPairForm.resx">
+      <DependentUpon>AddGasesPairForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Lists\ResultsForm.resx">
+      <DependentUpon>ResultsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Lists\SignalsForm.resx">
+      <DependentUpon>SignalsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Saver\SaverForm.resx">
+      <DependentUpon>SaverForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Saver\SelectForm.resx">
+      <DependentUpon>SelectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Serial\Options\ComOptions.resx">
+      <DependentUpon>ComOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Serial\Ports\ComSecondaryOptions.resx">
+      <DependentUpon>ComSecondaryOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Services\devTcpStatisticsForm.resx">
+      <DependentUpon>devTcpStatisticsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Services\PortStatisticsForm.resx">
+      <DependentUpon>PortStatisticsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Services\PortStatisticsForm2.resx">
+      <DependentUpon>PortStatisticsForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Services\ProtocolForm.resx">
+      <DependentUpon>ProtocolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Services\SaverFileStatisticsForm.resx">
+      <DependentUpon>SaverFileStatisticsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Tcp\devMan\TcpOptions.resx">
+      <DependentUpon>TcpOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Viewer\ChannelsViewForm.resx">
+      <DependentUpon>ChannelsViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Viewer\ConverterViewForm.resx">
+      <DependentUpon>ConverterViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1496_wall.ico" />
+    <Content Include="SciLexer.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SciLexer64.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
